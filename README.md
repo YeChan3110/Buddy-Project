@@ -38,9 +38,9 @@
 - Template Engine : Thymeleaf
 
 ### 1-3. ERD
-
-<img width="818" alt="최종 수정본 ERD" src="https://user-images.githubusercontent.com/115390448/227785428-dc627cbb-b10d-434e-a930-a07dc32da2cd.png">
-
+<p align="center">
+  <img width="818" alt="최종 수정본 ERD" src="https://user-images.githubusercontent.com/115390448/227785428-dc627cbb-b10d-434e-a930-a07dc32da2cd.png">
+</p>
 <h1>
   2. 주요 기능
 </h1>
