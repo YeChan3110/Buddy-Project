@@ -14,34 +14,28 @@
 ### 1-1. 프로젝트 개요<br>
 - 개발기간 : 2022.12.12 ~ 2022.01.05<br>
 - 개발인원 : 5명<br>
-- 주요 구현기능 : 팀 채팅 / 일정관리 / 파일공유
+- 주요 구현기능 : 그룹 채팅 / 일정관리 / 파일 드라이브
+- 팀원 구성
+  1. 강예찬(팀원) : 파일 드라이브(업로드, 다운로드, 공유) / 회원가입,로그인(이메일,문자 인증) / 그룹 초대 (기여도 100%)
+  2. 박세진(팀장) : 프로젝트 총괄 / 팀 관련 기능 / 채팅 기본 기능 / 관리자(문의,공지)
+  3. 정택구(팀원) : 일정 관리(캘린더 API) / 웹 페이지 디자인
+  4. 차석호(팀원) : AWS 구축 / 채팅 세부 기능(파일 첨부) / 유저(문의,공지)
+  5. 신유진(팀원) : DB 관리 / 채팅 세부 기능(이모티콘 첨부, 참여자 목록 출력) / 프로필변경
+  
+- 주제 선정 이유 
+  - 웹 소켓을 이용하여 그룹 채팅을 구현하고자 함
+  - 캘린더 API를 이용한 일정관리 프로그램을 구현하고자 함
+  - 개인 / 그룹 간 사용 및 공유할 수 있는 드라이브를 구현하고자 함
 
- 사용 기술
+### 1-2. 개발 환경<br>
+- Java 11, JavaScript(Jquery), HTML5, CSS
+- JDK 11
+- IDE : IntelliJ
+- Framework : SpringBoot(2.x)
+- Database : Oracle 11
+- ORM : Mybatis 2.3.0
+- Library : NAVER / KAKAO LOGIN API, NAVER SMS API
+- Template Engine : Thymeleaf
 
 
-<div>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br>
-</div>
-<br>
-
-<h2>
-
-* 구현 기능
- 
-</h2>
-
- * 회원가입 / 로그인 (NAVER / KAKAO LOGIN API)
 
