@@ -30,7 +30,7 @@
 ### 1-2. 개발 환경<br>
 - Java 11, JavaScript(Jquery), HTML5, CSS
 - JDK 11
-- IDE : IntelliJ
+- IDE : IntelliJ, SQL Developer
 - Framework : SpringBoot(2.x)
 - Database : Oracle 11
 - ORM : Mybatis 2.3.0
