@@ -39,7 +39,7 @@
 
 ### 1-3. ERD
 <p align="center">
-  <img width="879" alt="ERD 최종본" src="https://user-images.githubusercontent.com/115390448/227793009-9d0807af-e1b8-46b7-8834-fd5843cc7dc2.png">
+  <img width="971" alt="ERD 최종본" src="https://user-images.githubusercontent.com/115390448/227793115-a6c7a668-2d0b-43de-90af-4d0cd4503acb.png">
 </p>
 <h1>
   2. 주요 기능
