@@ -39,7 +39,7 @@
 
 ### 1-3. ERD
 <p align="center">
-  <img width="971" alt="ERD 최종본" src="https://user-images.githubusercontent.com/115390448/227793115-a6c7a668-2d0b-43de-90af-4d0cd4503acb.png">
+  <img width="964" alt="ERD 최종본" src="https://user-images.githubusercontent.com/115390448/227840706-0bd830d6-e018-42cd-ae9d-aafa72f3e3de.png">
 </p>
 
 ### 1-4. WBS
