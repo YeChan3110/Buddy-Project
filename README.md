@@ -42,15 +42,47 @@
   <img width="964" alt="ERD 최종본" src="https://user-images.githubusercontent.com/115390448/227840706-0bd830d6-e018-42cd-ae9d-aafa72f3e3de.png">
 </p>
 
-### 1-4. WBS
-
+### 1-4. 작업 일정
+<p align="center">
+  <img width="1040" alt="일정" src="https://user-images.githubusercontent.com/115390448/228231934-0b67c38c-71a4-49a0-bea6-9477e7a3ee33.png">
+</p>
 <h1>
-  2. 주요 기능
+  2. 구현 화면
 </h1>
+### 로그인 화면
+  <img width="1250" alt="메인 로그인 1" src="https://user-images.githubusercontent.com/115390448/228262219-abeec74e-cb49-4949-822b-86eeacfc8cca.png">
+  
+### 회원가입
+ - SMS / 이메일 인증 및 유효성 검사
+<img width="1238" alt="회원가입" src="https://user-images.githubusercontent.com/115390448/228262447-7d99fe2a-7394-4c80-9f75-98384d0bbbe3.png">
 
-### 2-1. 
+### 로그인 후 메인화면
+ - 개인 정보 수정, 팀 리스트, 팀 생성, 초대코드 입력
+<img width="1127" alt="로그인 후 메인" src="https://user-images.githubusercontent.com/115390448/228262598-5bfb0c38-1b78-45f6-ac2d-e90c8d609edd.png">
 
+### 마이페이지
+ - 프로필사진, 휴대폰번호, 비밀번호를 변경할 수 있음. 회원탈퇴 가
+<img width="1253" alt="프로필수정" src="https://user-images.githubusercontent.com/115390448/228264352-356abeda-1438-4cac-8833-b57d5a314a84.png">
 
+### 그룹 초대
+ - 그룹에 속한 그룹원은 초대코드 발송(이메일)을 통해 다른 사람을 팀에 초대할 수 있음
+ - 메일로 수신된 코드를 입력해 팀에 입장가능
+<img width="373" alt="팀 초대 메일" src="https://user-images.githubusercontent.com/115390448/228263426-1f2619ec-316a-410f-8a8f-120c9db92fe1.png">
+<img width="715" alt="초대코드 입력" src="https://user-images.githubusercontent.com/115390448/228263271-44553aaf-5790-4bf1-9f5b-a2b0e02db683.png">
+ 
+### 채팅
+ - 채팅에 참가할 팀원을 추가해 채팅방을 생성할 수 있음
+<img width="1271" alt="채팅시작" src="https://user-images.githubusercontent.com/115390448/228264044-30aa931a-be3a-48cb-9511-3d3bb06c4c2b.png">
+ - 채팅 및 파일전송, 이모티콘 기능 사용 가능
+<img width="1276" alt="채팅하기" src="https://user-images.githubusercontent.com/115390448/228264019-cec614c1-9964-4ebd-b361-c0a9a7e0bccf.png">
+
+### 파일 드라이브 화면
+ - 파일 업로드(드래그 앤 드롭) / 다운로드 / 폴더 공유 기능 (개인 / 팀)
+<img width="1269" alt="드라이브" src="https://user-images.githubusercontent.com/115390448/228264555-63a79b7c-60ae-4f2f-b323-74a3a31863b3.png">
+
+### 일정 관리 캘린더 화면
+ - 일정 추가, 수정, 삭제 
+<img width="1273" alt="일정" src="https://user-images.githubusercontent.com/115390448/228264715-afce99d0-9f6e-4137-8605-2d756d11e4ef.png">
 
 
 
