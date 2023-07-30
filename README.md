@@ -7,6 +7,7 @@
   <img src="https://user-images.githubusercontent.com/115390448/227765979-de2f2b0c-ed45-4717-8324-30960c43e65b.png", width="150px", height="100px" />
   <p align="center", font-size="10px"> 
      Buddy는 메신저, 파일 드라이브, 일정관리를 제공하는 사이트 입니다.<br>
+     https://github.com/YeChan3110/Buddy-Project
   </p>
 </p>
 <hr>
